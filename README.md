@@ -15,6 +15,10 @@ From a console, install dependencies:
 
 `npm install`
 
+Install gulp globally:
+
+`npm install -g gulp`
+
 From a console, run the app:
 
 `gulp`
